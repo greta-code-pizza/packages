@@ -1,0 +1,13 @@
+{
+  "name": "packages",
+  "version": "1.0.0",
+  "author": "Nicolas LE CHENIC",
+  "scripts": {
+    "watch": "webpack --watch"
+  },
+  "devDependencies": {
+    "javascript-time-ago": "^2.0.4",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
+  }
+}

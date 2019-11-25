@@ -1,0 +1,11 @@
+.subtitle {
+    font-size: 1.2em;
+}
+
+.post {
+    border: 1px solid #EFEFEF;
+    padding: 10px;
+    border-radius: 4px;
+    margin: 10px;
+    width: 500px;
+}
