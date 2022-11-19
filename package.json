@@ -8,6 +8,6 @@
   "devDependencies": {
     "javascript-time-ago": "^2.0.4",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.9"
+    "webpack-cli": "^3.3.12"
   }
 }
